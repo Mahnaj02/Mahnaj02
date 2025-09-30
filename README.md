@@ -19,12 +19,11 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suraiaafrozmaria&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahnaj02&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraiaafrozmaria&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnaj02&layout=compact&theme=radical)  
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([your-linkedin-link](https://www.linkedin.com/in/mahnaj-binta-rahman-b14b7a27a/))  
-[![E]()]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([your-linkedin-link](https://www.linkedin.com/in/mahnaj-binta-rahman-b14b7a27a/))
