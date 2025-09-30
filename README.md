@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Mehnaj Binta Rahman 
 
-<!--
-**Mahnaj02/Mahnaj02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Computer Science student
+- 🌱 Currently learning **Web Development** and **Data Structure and Algorithms**  
+- 💡 Interested in **Machine Learning**, **Bioinformatics**, and **data science**  
+- 📫 Reach me at: [mrahman2320040@bscse.uiu.ac.bd]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** C, C++, Python, Java 
+- **Web:** HTML, CSS 
+- **Databases:** MySQL
+- **Tools:** Git, VS Code, Figma  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suraiaafrozmaria&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraiaafrozmaria&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([your-linkedin-link](https://www.linkedin.com/in/mahnaj-binta-rahman-b14b7a27a/))  
+[![E]()]()
